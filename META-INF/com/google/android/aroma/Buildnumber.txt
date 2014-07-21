@@ -1,0 +1,3 @@
+<@center><b>Recovery In Here/BuildNumber</b></@>
+<@center><*>TWRP Recovery 2.7.1.0</*></@>
+<@center><*>PhilZ Touch 6.48.4</*></@>

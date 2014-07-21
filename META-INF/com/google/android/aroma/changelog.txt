@@ -1,0 +1,9 @@
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>Jul 17 2014</b></@>
+<@center><*>Updated PhilZ Touch</*></@>
+<@center><*>Updated TWRP Recovery</*></@>
+
+<@center><b>Recovery Switcher 1.0.0</b></@>
+<@center><b>Apr 12 2014</b></@>
+<@center><*>TWRP Recovery</*></@>
+<@center><*>PhilZ Touch</*></@>
